@@ -1,0 +1,5 @@
+export * from './Footer/Main'
+export * from './Header/Main'
+export * from './NotesList/Main'
+export * from './TakeNote/Main'
+export * from './Snackbars/Main'
